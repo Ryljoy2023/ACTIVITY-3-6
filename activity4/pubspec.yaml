@@ -1,0 +1,9 @@
+name: love_calculator
+description: A Dart program that asynchronously fetches love percentage data from the Love Calculator API, processes the response, and displays relevant information to the user.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  http: ^0.13.3
